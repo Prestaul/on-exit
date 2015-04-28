@@ -1,6 +1,6 @@
 {
   "name": "on-exit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Register tasks to perform when the process exits.",
   "main": "index.js",
   "scripts": {

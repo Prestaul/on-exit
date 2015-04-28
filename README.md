@@ -1,4 +1,4 @@
-#on-exit
+# on-exit
 
 Easily register tasks to perform when the current node process exits.
 

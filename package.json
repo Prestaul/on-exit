@@ -1,0 +1,29 @@
+{
+  "name": "on-exit",
+  "version": "1.0.0",
+  "description": "Register tasks to perform when the process exits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./tests/index.js"
+  },
+  "keywords": [
+    "process",
+    "exit",
+    "on-exit",
+    "SIGINT",
+    "SIGTERM",
+    "cleanup",
+    "event",
+    "shutdown"
+  ],
+  "author": "Matt Dunlap <mpdunlap@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Prestaul/on-exit.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.4"
+  }
+}
